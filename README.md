@@ -3,7 +3,6 @@
 > [!WARNING]
 > The responsibility is by the user!
 ### This exe file give you up 200 FPS in games!
-## after GameMaximizer tweaks
 ### [The FPS Tester i use](https://github.com/TheYali1/FPS-Tester)
+## after GameMaximizer tweaks
 [![aftergamemaximizertweaks](https://raw.githubusercontent.com/TheYali1/GameMaximizer/main/.github/after.gif)](https://github.com/TheYali1/GameMaximizer/)
-
