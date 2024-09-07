@@ -14,15 +14,6 @@ setlocal EnableExtensions DisableDelayedExpansion
 
 
 :: ----------------------------------------------------------
-:: -----------Run script on startup [EXPERIMENTAL]-----------
-:: ----------------------------------------------------------
-echo --- Run script on startup [EXPERIMENTAL]
-del /f /q %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\privacy-cleanup.bat
-copy "%~dpnx0" "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\privacy-cleanup.bat"
-:: ----------------------------------------------------------
-
-
-:: ----------------------------------------------------------
 :: -----------Remove "Meet Now" icon from taskbar------------
 :: ----------------------------------------------------------
 echo --- Remove "Meet Now" icon from taskbar
